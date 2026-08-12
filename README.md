@@ -2,38 +2,57 @@
 
 ## Prawa autorskie
 
-Ta strona internetowa została przygotowana na zlecenie artystki i jest chroniona prawem autorskim. Wszystkie elementy projektu, w tym między innymi:
+Niniejszy dokument dotyczy **projektu i wykonania strony internetowej**, a nie zdjęć, obrazów, grafik artystycznych ani innych materiałów należących do artystki lub osób trzecich.
+
+Projekt strony internetowej został przygotowany na zlecenie artystki i jest chroniony prawem autorskim. Wszystkie elementy **samego projektu strony**, w tym między innymi:
 
 * wygląd strony,
 * układ elementów,
-* grafiki,
-* zdjęcia,
-* logo,
-* treści,
-* animacje,
+* sposób prezentacji treści,
 * kod źródłowy,
+* animacje,
+* efekty wizualne,
+* struktura strony,
+* rozwiązania techniczne,
 
-stanowią własność ich prawowitych właścicieli i są objęte ochroną praw autorskich.
+są chronione prawem autorskim.
+
+**Zdjęcia, obrazy, dzieła artystyczne, logo oraz inne materiały dostarczone przez artystkę nie są objęte niniejszym zapisem jako elementy mojego projektu. Prawa do tych materiałów pozostają przy ich prawowitych właścicielach.**
 
 ## Zasady użytkowania
 
 Nie zezwala się na:
 
-* kopiowanie strony w całości lub w części,
+* kopiowanie projektu strony w całości lub w części,
 * tworzenie identycznych lub niemal identycznych kopii projektu,
-* wykorzystywanie projektu do celów komercyjnych,
-* sprzedaż, odsprzedaż lub udostępnianie projektu osobom trzecim,
+* wykorzystywanie projektu strony do celów komercyjnych bez zgody autora,
+* sprzedaż, odsprzedaż lub udostępnianie projektu strony osobom trzecim,
+* kopiowanie kodu źródłowego,
 * usuwanie informacji o prawach autorskich.
+
+Powyższe ograniczenia dotyczą **projektu strony internetowej**, a nie materiałów artystycznych zamieszczonych na stronie.
 
 ## Modyfikacje
 
-Projekt może być wykorzystywany wyłącznie jako inspiracja lub do wprowadzania własnych, znaczących modyfikacji. Powstały projekt nie może być kopią ani wyglądać identycznie lub w sposób mogący wprowadzać odbiorców w błąd co do jego pochodzenia.
+Projekt strony może być wykorzystywany jako inspiracja do stworzenia własnego projektu. Niedozwolone jest jednak tworzenie kopii, która jest identyczna lub na tyle podobna do oryginału, że może być uznana za jego kopię lub może wprowadzać odbiorców w błąd co do jej pochodzenia.
+
+Samo wykorzystanie ogólnych pomysłów, standardowych rozwiązań HTML, CSS czy JavaScript nie oznacza kopiowania projektu. Ochrona dotyczy oryginalnych elementów projektu oraz kodu.
+
+## Materiały artystyczne
+
+Zdjęcia, obrazy, ilustracje, nagrania, logo oraz inne dzieła artystyczne znajdujące się na stronie mogą być chronione **odrębnymi prawami autorskimi**.
+
+Ich kopiowanie, pobieranie, rozpowszechnianie lub wykorzystywanie wymaga zgody odpowiedniego właściciela praw, niezależnie od praw dotyczących samego projektu strony.
 
 ## Kontakt
 
-W przypadku chęci wykorzystania jakiejkolwiek części projektu lub uzyskania licencji, należy skontaktować się z właścicielem praw autorskich.
+W przypadku chęci wykorzystania jakiejkolwiek części projektu strony lub uzyskania odpowiedniej licencji należy skontaktować się z właścicielem praw autorskich.
 
-Adrian Rauczyński 
-mail: rauczynskiadrian@gmail.com
+Strona:
+- rauczynskiadrian@gmail.com
+- Adrian Rauczyński
 
-© Wszelkie prawa zastrzeżone. Nieautoryzowane kopiowanie, rozpowszechnianie, sprzedaż lub wykorzystywanie projektu bez zgody właściciela jest zabronione.
+Zdjęcia:
+- Olcia Kolcia
+
+© Wszelkie prawa zastrzeżone. Niniejszy zapis dotyczy projektu i wykonania strony internetowej. Nie stanowi on przeniesienia ani ograniczenia praw do zdjęć, obrazów, dzieł artystycznych i innych materiałów należących do ich prawowitych właścicieli.
