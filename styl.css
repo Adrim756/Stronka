@@ -4,24 +4,38 @@
 
     background-color: black;
     border-radius: 20px;
+    padding-top: 10px;
+}
 
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
 #ekran {
-width:280px;
-height: 480px;
-background-color: white;
-border-radius: 10px;
+    width: 280px;
+    height: 450px;
+
+    background-color: white;
+
+    border-radius: 10px;
+ 
+    margin: auto;
 }
+
 #kamerka {
     width: 20px;
     height: 20px;
-    
+
     background-color: black;
-    
+
     border-radius: 50%;
     margin: auto;
-    margin-top: 2px;
+    transform: translatey(10px);
+}
+
+#return_button {
+    background-color: black;
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    border: 2px solid grey;
+    display: block;
+    margin: 10px auto;
+    outline: none;
 }
